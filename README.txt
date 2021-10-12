@@ -1,5 +1,4 @@
 Authors: Thanh Hien Nguyen-Mai & Lauren Mayes
-UCID: 30038243 & 30062361
 
 We wrote our file with the GPIO-V1.1 file posted in the project section of D2L so the make file we are submitting was the one provided in that file.
 
